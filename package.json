@@ -1,6 +1,6 @@
 {
   "name": "broccoli-xml2json",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "xml2json",
   "license": "MIT",
   "repository": "hemanth/broccoli-xml2json",
@@ -25,12 +25,12 @@
     "convert"
   ],
   "dependencies": {
-    "broccoli-filter": "0.0.1",
-    "xml2json": "~0.4.0"
+    "broccoli-filter": "^0.1.6",
+    "xml2json": "^0.4.0"
   },
   "devDependencies": {
     "mocha": "*",
-    "broccoli": "~0.1.1",
-    "rimraf": "~2.2.6"
+    "broccoli": "^0.12.0",
+    "rimraf": "^2.2.6"
   }
 }
